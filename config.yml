@@ -16,7 +16,7 @@ params:
     events.
   eventsPerPage: 10
   groups:
-    - Servicios
+    - Sistemas
   logo: 'https://freefy.online/images/freefy_logo_color.png'
   meta_description: >-
     This status page provides updated information about our systems normal
