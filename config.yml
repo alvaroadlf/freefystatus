@@ -1,22 +1,23 @@
 title: Freefy System Status
 baseURL: 'https://status.freefy.online'
-languageCode: es
+languageCode: en
 params:
   copyrightHolder: Freefy
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description_footer: >-
-    Síguenos en <a class='text-grey-darkest' title='@freefyonline'
-    href='https://twitter.com/freefyonline'>Twitter</a> para más información.
+    For more detailed information please send an email to <a
+    class='text-grey-darkest' title='hola@freefy.online'
+    href='mailto:hola@freefy.online'>hola@freefy.online</a>.
   description_header: >-
-    Information about <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>example</a> systems operations.<br />Follow
-    us <a class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a
+    Information about <a class='text-grey-darkest' title='Freefy'
+    href='https://freefy.online/'>Freefy</a> systems.<br />Follow us on <a
+    class='text-grey-darkest' title='Visit our page on Twitter'
+    href='https://twitter.com/freefyonline'>on Twitter</a> or subscribe to <a
     class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
     events.
   eventsPerPage: 10
   groups:
-    - Sistemas
+    - Systems
   logo: 'https://freefy.online/images/freefy_logo_color.png'
   meta_description: >-
     This status page provides updated information about our systems normal
