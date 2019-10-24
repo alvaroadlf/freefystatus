@@ -5,9 +5,8 @@ params:
   copyrightHolder: Freefy
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description_footer: >-
-    Síguenos en Twitter para más información<a class='text-grey-darkest'
-    title='@freefyonline' href='https://twitter.com/freefyonline'>Twitter</a>
-    para más información.
+    Síguenos en <a class='text-grey-darkest' title='@freefyonline'
+    href='https://twitter.com/freefyonline'>Twitter</a> para más información.
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>example</a> systems operations.<br />Follow
